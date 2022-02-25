@@ -1,0 +1,16 @@
+{
+  "name": "data",
+  "version": "0.1.0",
+  "description": "Exo student",
+  "main": "ExoStudent.js",
+  "scripts": {
+    "student": "node student.js ",
+    "app": "node app.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Ayan\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
